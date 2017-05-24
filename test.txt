@@ -3,3 +3,4 @@ update-in-dev
 add-this-line-in-master
 add-one-line-in-dev
 add-in-master-and-not-add
+add-in-test
